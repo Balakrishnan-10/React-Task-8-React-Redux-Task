@@ -1,6 +1,6 @@
 # FRONTEND :  Shopping Cart - React REDUX :
 
-## Vercel Deployment link : 
+## Vercel Deployment link : https://react-task-8-react-redux-task.vercel.app/
 
 ## Base URL : http://localhost:3000/
 
